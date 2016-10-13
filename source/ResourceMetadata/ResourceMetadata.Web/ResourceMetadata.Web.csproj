@@ -165,7 +165,6 @@
     <Content Include="Scripts\app\directives\shared\modal.js" />
     <Content Include="Scripts\app\directives\shared\topmenu.js" />
     <Content Include="Scripts\app\helpers\authorizationinterceptor.js" />
-    <Content Include="Scripts\app\ngscripts.js" />
     <Content Include="Scripts\app\partials\Loader.html" />
     <Content Include="Scripts\app\partials\TopMenu.html" />
     <Content Include="Scripts\app\services\activities\activityservice.js" />
@@ -192,19 +191,15 @@
     <Content Include="Scripts\libs\angular-resource-1.2.16.js" />
     <Content Include="Scripts\libs\angular-route-1.2.16.js" />
     <Content Include="Scripts\libs\angular-ui\select2.js" />
-    <Content Include="Scripts\libs\angular-ui\select2.min.js" />
     <Content Include="Scripts\libs\jasmine-2.0.0\boot.js" />
     <Content Include="Scripts\libs\jasmine-2.0.0\console.js" />
     <Content Include="Scripts\libs\jasmine-2.0.0\jasmine-html.js" />
     <Content Include="Scripts\libs\jasmine-2.0.0\jasmine.js" />
     <Content Include="Scripts\libs\jquery-1.9.1.js" />
-    <Content Include="Scripts\libs\jquery-1.9.1.min.js" />
     <Content Include="Scripts\libs\jquery-ui-1.10.3.min.js" />
     <Content Include="Scripts\libs\ng-table\ng-table.js" />
     <Content Include="Scripts\libs\select2\select2.js" />
-    <Content Include="Scripts\libs\select2\select2.min.js" />
     <Content Include="Scripts\libs\semantic\semantic.js" />
-    <Content Include="Scripts\libs\semantic\semantic.min.js" />
     <Content Include="Scripts\test\spec\activitiescontrollerspec.js" />
     <Content Include="Scripts\test\spec\activityservicespec.js" />
     <Content Include="Scripts\test\spec\locationcontrollerspec.js" />
