@@ -19,6 +19,7 @@
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -127,12 +128,9 @@
     <Content Include="Content\themes\images\loader-small.gif" />
     <Content Include="Content\themes\select2\select2-spinner.gif" />
     <Content Include="Content\themes\select2\select2.css" />
-    <Content Include="Content\themes\select2\select2.min.css" />
     <Content Include="Content\themes\select2\select2.png" />
     <Content Include="Content\themes\semantic\semantic.css" />
-    <Content Include="Content\themes\semantic\semantic.min.css" />
     <Content Include="Content\themes\Site.css" />
-    <Content Include="Content\themes\Site.min.css" />
     <Content Include="Content\themes\smoothness\images\loading.gif" />
     <Content Include="Content\themes\smoothness\images\ui-bg_flat_0_aaaaaa_40x100.png" />
     <Content Include="Content\themes\smoothness\images\ui-bg_flat_75_ffffff_40x100.png" />
